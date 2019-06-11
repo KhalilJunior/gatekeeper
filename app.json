@@ -1,0 +1,15 @@
+{
+  "name": "Gatekeeper",
+  "description": "Enables client-side applications to dance OAuth with GitHub.",
+  "website": "https://github.com/prose/gatekeeper",
+  "repository": "https://github.com/prose/gatekeeper",
+  "keywords": ["node", "github", "oauth"],
+  "env": {
+    "OAUTH_CLIENT_ID": "bf36c7c2b5958e959e69",
+    "OAUTH_CLIENT_SECRET": "32a5c099a121418ec69bc3b043430cf9c454acb3",
+    "OAUTH_HOST": "github.com",
+    "OAUTH_PORT": "443",
+    "OAUTH_PATH": "/login/oauth/access_token",
+    "OAUTH_METHOD": "POST"
+  }
+}
